@@ -1,3 +1,4 @@
 # git-oneshot
-This is for my git and github tutorial practice by apna college
-Auther - Rehana Akter
+This is for my git and github tutorial practice by apna college.
+<br>
+Auther - Rehana Akter.
